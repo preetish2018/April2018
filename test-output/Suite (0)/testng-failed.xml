@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Suite (0)]" parallel="tests">
+  <test name="DependencyTest(failed)" parallel="tests">
+    <classes>
+      <class name="testngprogrammes.DependencyTestNG">
+        <methods>
+          <include name="enteruserid"/>
+        </methods>
+      </class> <!-- testngprogrammes.DependencyTestNG -->
+    </classes>
+  </test> <!-- DependencyTest(failed) -->
+</suite> <!-- Failed suite [Suite (0)] -->

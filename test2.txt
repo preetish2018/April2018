@@ -1,0 +1,19 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D2EE-6490
+
+ Directory of C:\Users\GUDU\eclipse-workspace\Gudu
+
+05-04-2018  16:51    <DIR>          .
+05-04-2018  16:51    <DIR>          ..
+20-02-2018  16:57            17,985 .classpath
+03-12-2017  18:14               380 .project
+03-12-2017  18:28    <DIR>          .settings
+09-03-2018  10:28    <DIR>          bin
+05-04-2018  16:29                 0 index.html
+03-03-2018  17:04    <DIR>          src
+20-02-2018  23:41    <DIR>          test-output
+05-04-2018  16:42                14 test1.txt
+05-04-2018  16:51                 0 test2.txt
+20-02-2018  16:28    <DIR>          testxmlsuites
+               5 File(s)         18,379 bytes
+               7 Dir(s)   1,704,980,480 bytes free
